@@ -1,0 +1,5 @@
+python ImageAdaptiveGaussianThresholding.py
+python ImageAdaptiveMeanThresholding.py
+python ImageContrastAdjuster.py
+python ImageGammaAdjuster.py
+python ImageSharpener.py
